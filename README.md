@@ -1,3 +1,4 @@
+## Apache RocketMQ
 
 [![Build Status][maven-build-image]][maven-build-url]
 [![CodeCov][codecov-image]][codecov-url]
@@ -7,3 +8,5 @@
 [![Average Time to Resolve An Issue][percentage-of-issues-still-open-image]][pencentage-of-issues-still-open-url]
 [![Percentage of Issues Still Open][average-time-to-resolve-an-issue-image]][average-time-to-resolve-an-issue-url]
 [![Twitter Follow][twitter-follow-image]][twitter-follow-url]
+
+**[Apache RocketMQ](https://rocketmq.apache.org) is a distributed messaging and streaming platform with low latency, high performance and reliability, trillion-level capacity and flexible scalability.**
